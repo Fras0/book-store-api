@@ -10,7 +10,7 @@ app should have these in .env:
     JWT_COOKIE_EXPIRES_IN=30
     server=http://localhost:8080
     FRONT_END_SERVER=http://localhost:3000
-    STRIPE_SECRET_KEY=sk_test_51QMZGuKowEM3jA9t0MJYpGY4EwunD2JAQlp2ok1I16fHeVzszN8nChKEpIv9Kd4XQHgGhLp2eizEXRZQju5CncYp00E5AFTTK9
+    STRIPE_SECRET_KEY=sk_test_51QMZGuKowxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ##### NOTE I know that the stripe secret key is "SECRET" but i made this dummy account anyway and put it's key so that the app doesnt crash in start up so if you want to test you can use your own stripe account
 
